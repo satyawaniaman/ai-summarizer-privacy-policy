@@ -8,7 +8,7 @@ ChaiCode AI Summarizer is a Chrome extension that uses Google's Gemini API to su
 
 ## Privacy Policy
 
-Our privacy policy explains how we collect, use, and protect your information when you use our Chrome extension. You can view the privacy policy [here](https://yourusername.github.io/chaicode-privacy-policy/).
+Our privacy policy explains how we collect, use, and protect your information when you use our Chrome extension. You can view the privacy policy [here](https://satyawaniaman.github.io/ai-summarizer-privacy-policy/).
 
 ## Installation
 
